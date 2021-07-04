@@ -1,7 +1,7 @@
 ---
 title: "Reproducible Research Project 1"
-author: "Michael Galarnyk"
-date: "3/26/2017"
+author: "Ong Shi Teng"
+date: "04/07/2021"
 output: html_document
 ---
 
